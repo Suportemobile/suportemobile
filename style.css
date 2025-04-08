@@ -1,0 +1,57 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #0a1b33;
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+}
+
+.logo {
+  width: 200px;
+  margin-bottom: 1rem;
+}
+
+.botoes a {
+  margin: 0.5rem;
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.whatsapp {
+  background-color: #25d366;
+  color: #fff;
+}
+
+.orcamento {
+  background-color: #fff;
+  color: #0a1b33;
+}
+
+.servicos, .contato, .prova-social, .depoimentos {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.servicos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.servicos li {
+  margin: 0.5rem 0;
+}
+
+iframe {
+  width: 90%;
+  height: 300px;
+  border: none;
+  margin-top: 1rem;
+}
